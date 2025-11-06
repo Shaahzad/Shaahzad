@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently working on **React Native**
 
 - 📫 How to reach me **Shehzadmemon147@gmail.com**
 
